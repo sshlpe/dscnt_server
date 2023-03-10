@@ -21,6 +21,7 @@ app.get("/", async (req, res) => {
 
 app.get("/entities", async (req, res) => { // Get all current Entities
 	let ent_json = require('./src/db/entities.json');
+	console.log(ent_json);
 	res.send(ent_json);
 });
 

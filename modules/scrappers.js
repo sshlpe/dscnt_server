@@ -2,7 +2,8 @@
 const puppeteer = require('puppeteer');
 
 const dsc_falabella = async () => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: true, 
+    args: ['--no-sandbox']});
   const page = await browser.newPage();
   
   await page.goto('https://www.bancofalabella.cl/descuentos/todos-los-descuentos');

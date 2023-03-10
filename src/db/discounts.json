@@ -420,24 +420,34 @@
             "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-más-CMR-Puntos-en-Despegar",
             "title": "Acumula más CMR Puntos en Despegar",
             "text": "Pagando con tu tarjeta CMR"
+        },
+        {
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "title": "$10.000 dcto en Fazil",
+            "text": "Por compras sobre $29.990"
         }
     ],
     "MACH":
     [
         {
-            "url": "https://www.somosmach.com/beneficios/20-000-descuento-nuevos-usuarios-cabify",
-            "text": "¡MACH y Cabify te llevan a todas partes! Aprovecha esta espectacular promoción",
-            "title": "$20.000 descuento Nuevos usuarios - Cabify"
+            "url": "https://www.somosmach.com/beneficios/coder-house-2",
+            "text": "Este 2023 puede ser el año para volver a estudiar y potenciar tus conocimientos en el Marketing Digital y Diseño, en los cursos y carreras online de Coderhouse aprovechando el 30% de dcto adicional en CoderBeca que tienes pagando en su sitio con MACH.",
+            "title": "Coderhouse"
         },
         {
-            "url": "https://www.somosmach.com/beneficios/recargas-movistar",
-            "text": "Mantente siempre conectad@: Usa MACH para recargar tu Movistar y podrás obtener RRSS libres por hasta 30 días.",
-            "title": "Recargas Movistar"
+            "url": "https://www.somosmach.com/beneficios/klauclinic",
+            "text": "Aprovecha el 40%OFF pagando con MACH y renueva tu piel con los mejores tratamientos de belleza y masajes",
+            "title": "Klauclinic"
         },
         {
-            "url": "https://www.somosmach.com/beneficios/kit-de-bienvenida-modovip-febrero-2023-usuarios-nuevos",
-            "text": "",
-            "title": "Kit de Bienvenida - Febrero 2023 (Usuarios nuevos)"
+            "url": "https://www.somosmach.com/beneficios/pedidos-ya-40-cashback",
+            "text": "¡El finde no se cocina! Pide lo que quieras en Pedidos Ya con este increíble beneficio",
+            "title": "PedidosYa - 40% cashback"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/20-cashback-en-aerolineas",
+            "text": "Imperdible 20% de cashback en la compra tu próximo boleto de avión, sólo pagando con QR MACH",
+            "title": "20% cashback en aerolineas"
         },
         {
             "url": "https://www.somosmach.com/beneficios/movistar-game-club",
@@ -445,34 +455,29 @@
             "title": "Movistar Game Club"
         },
         {
-            "url": "https://www.somosmach.com/beneficios/teledoc",
-            "text": "Este mes cuídate desde casa y accede a las Video Consultas Médicas de TeleDoc.cl, pagando desde $10.000 por consulta, solo por ser parte de MACH. ",
-            "title": "TeleDoc.cl"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/modovip-marzo",
-            "text": "¡Gana hasta $50.000 en beneficios con Modo VIP!",
-            "title": "ModoVIP - Marzo"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/coder-house-2",
-            "text": "Este 2023 puede ser el año para volver a estudiar y potenciar tus conocimientos en el Marketing Digital y Diseño, en los cursos y carreras online de Coderhouse aprovechando el 30% de dcto adicional en CoderBeca que tienes pagando en su sitio con MACH.",
-            "title": "Coderhouse"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/seguro-de-mascotas",
-            "text": "Contrata este seguro para disfrutar con todo la vida junto a tu mascota",
-            "title": "Seguro de Mascotas 🐾"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/pedidosya-50-off-restaurantes-usuarios-plus",
-            "text": "¡50% OFF para usuarios Plus en restaurantes! Solo pagando con MACH",
-            "title": "PedidosYa - 50% OFF restaurantes usuarios Plus"
-        },
-        {
             "url": "https://www.somosmach.com/beneficios/topclass",
             "text": "Aprovecha el 50% de dscto. los primeros 3 meses de suscripción en Topclass pagando con MACH y elige el curso online que quieres. ",
             "title": "Topclass"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/kit-de-bienvenida-marzo-2023-usuarios-nuevos",
+            "text": "Beneficios Modo VIP para el mes de marzo. Cashback los primeros 5 días de abril.",
+            "title": "Kit de Bienvenida - Marzo 2023 (Usuarios nuevos)"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/bazar-gourmet-de-parque-arauco-20-de-dcto-20-de-cashback",
+            "text": "Compra tu comida favorita con 20% de dcto. y 20% de cashback, pagando con el QR de MACH en Bazar Gourmet de Parque Arauco",
+            "title": "Bazar Gourmet de Parque Arauco - 20% de dcto. + 20% de cashback "
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/20-000-descuento-nuevos-usuarios-cabify",
+            "text": "¡MACH y Cabify te llevan a todas partes! Aprovecha esta espectacular promoción",
+            "title": "$20.000 descuento Nuevos usuarios - Cabify"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/visa-apps",
+            "text": "Recibe un cashback de 100% al comprar con MACH tus apps favoritas. Promoción válida para nuevos usuarios.",
+            "title": "Visa Apps (usuarios nuevos)"
         },
         {
             "url": "https://www.somosmach.com/beneficios/pedidos-ya-40-off-nuevos-usuarios",
@@ -480,14 +485,34 @@
             "title": "PedidosYa - 50% OFF nuevos usuarios"
         },
         {
+            "url": "https://www.somosmach.com/beneficios/modovip-marzo",
+            "text": "¡Gana hasta $50.000 en beneficios con Modo VIP!",
+            "title": "ModoVIP - Marzo"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/seguro-de-mascotas",
+            "text": "Contrata este seguro para disfrutar con todo la vida junto a tu mascota",
+            "title": "Seguro de Mascotas 🐾"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/teledoc",
+            "text": "Este mes cuídate desde casa y accede a las Video Consultas Médicas de TeleDoc.cl, pagando desde $10.000 por consulta, solo por ser parte de MACH. ",
+            "title": "TeleDoc.cl"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/pedidos-ya-40-cashback-inscripcion",
+            "text": "¡Felicidades! Ya puedes comprar con 40% de cashback en Pedidos Ya pagando con MACH.",
+            "title": "PedidosYa - 40% cashback inscripción"
+        },
+        {
+            "url": "https://www.somosmach.com/beneficios/pedidosya-50-off-restaurantes-usuarios-plus",
+            "text": "¡50% OFF para usuarios Plus en restaurantes! Solo pagando con MACH",
+            "title": "PedidosYa - 50% OFF restaurantes usuarios Plus"
+        },
+        {
             "url": "https://www.somosmach.com/beneficios/achicrip",
             "text": "Prepárate para aprender todo sobre los nuevos mercados y ten 25% OFF con MACH en “webinar introductorio: Bitcoin y Blockchain”. Presentación de 1 hora dictada por Miguel Klagges, presidente de ACHICRIP.",
             "title": "Achicrip"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/visa-apps",
-            "text": "Recibe un cashback de 100% al comprar con MACH tus apps favoritas. Promoción válida para nuevos usuarios.",
-            "title": "Visa Apps (usuarios nuevos)"
         },
         {
             "url": "https://www.somosmach.com/beneficios/modo-vip-marzo-inscripcion",
@@ -500,24 +525,14 @@
             "title": "Dr. Pet"
         },
         {
-            "url": "https://www.somosmach.com/beneficios/klauclinic",
-            "text": "Aprovecha el 40%OFF pagando con MACH y renueva tu piel con los mejores tratamientos de belleza y masajes",
-            "title": "Klauclinic"
+            "url": "https://www.somosmach.com/beneficios/recargas-movistar",
+            "text": "Mantente siempre conectad@: Usa MACH para recargar tu Movistar y podrás obtener RRSS libres por hasta 30 días.",
+            "title": "Recargas Movistar"
         },
         {
             "url": "https://www.somosmach.com/beneficios/virtual-bike",
             "text": "Prepárare para vivir una increíble experiencia deportiva junto a Virtual Bike y ten hasta 30% OFF en planes pagando con tu MACH. Primera clase gratis.",
             "title": "Virtual Bike"
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/bazar-gourmet-de-parque-arauco-20-de-dcto-20-de-cashback",
-            "text": "Compra tu comida favorita con 20% de dcto. y 20% de cashback, pagando con el QR de MACH en Bazar Gourmet de Parque Arauco",
-            "title": "Bazar Gourmet de Parque Arauco - 20% de dcto. + 20% de cashback "
-        },
-        {
-            "url": "https://www.somosmach.com/beneficios/20-cashback-en-aerolineas",
-            "text": "Imperdible 20% de cashback en la compra tu próximo boleto de avión, sólo pagando con QR MACH",
-            "title": "20% cashback en aerolineas"
         }
     ],
     "Entel":

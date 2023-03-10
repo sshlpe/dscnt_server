@@ -15,16 +15,18 @@ app.listen(process.env.PORT || 8010, () => {
 	console.log(` listening on ${process.env.PORT}`)
 });
 
-app.get("/update", async (req, res) => {
-	runUpdate();
-	res.send('Updateing discounts database.. This may take a while');
+app.get("/", async (req, res) => {
+	res.send("Hi This is My Api"); // Description Of Api
 });
 
-app.get("/", async (req, res) => {
-	res.send("Hi This is My Api");
+app.get("/entities", async (req, res) => { // Get all current Entities
+	let ent_json = require('./src/db/entities.json');
+	res.send(ent_json);
 });
+
 
 app.get("/discounts/:elements", async (req, res) => {
+	//get discounts of selected entities
 
 	let dsc_json = require('./src/db/discounts.json');
 
@@ -36,10 +38,11 @@ app.get("/discounts/:elements", async (req, res) => {
 	res.send(info);
 });
 
-app.get("/entities", async (req, res) => {
-	let ent_json = require('./src/db/entities.json');
-	res.send(ent_json);
-});
+app.get("/update", async (req, res) => {
+	// update the discounts.json file with the latest discounts
 
+	runUpdate();
+	res.send('Updateing discounts database.. This may take a while');
+});
 
 

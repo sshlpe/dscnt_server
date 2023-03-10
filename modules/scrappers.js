@@ -28,7 +28,8 @@ const dsc_falabella = async () => {
 };
 
 const dsc_mach = async () => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: true, 
+    args: ['--no-sandbox']});
   const page = await browser.newPage();
   
   await page.goto('https://www.somosmach.com/beneficios');

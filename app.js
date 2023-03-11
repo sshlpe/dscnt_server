@@ -1,3 +1,4 @@
+
 "use strict";
 
 require('dotenv').config();
@@ -16,6 +17,7 @@ app.listen(process.env.PORT || 8010, () => {
 });
 
 app.get("/", async (req, res) => {
+	console.log('recived conection');
 	res.send("Hi This is My Api"); // Description Of Api
 });
 

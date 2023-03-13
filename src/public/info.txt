@@ -1,0 +1,10 @@
+
+To make the api run indefintly, use Screen.
+
+run "screen" to create an screen session and ENTER to beguin.
+Then run the program "npm run start"
+
+then run "ctrl+a  d" to exit the screen session without terminating the program
+
+To access again run "screen -r"
+

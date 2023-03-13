@@ -7,14 +7,18 @@ const request = require("request"),
   express = require("express"),
   body_parser = require("body-parser"),
   puppeteer = require('puppeteer'),
+  http = require('http'),
+  https = require("https"),
+  fs = require("fs"),
   {runUpdate} = require('./modules/update'),
   cors = require('cors'),
   app = express().use(body_parser.json()).use(cors());
 
-
+/*
 app.listen(process.env.PORT || 8010, () => {
 	console.log(` listening on ${process.env.PORT}`)
 });
+*/
 
 app.get("/", async (req, res) => {
 	console.log('recived conection');
@@ -47,5 +51,13 @@ app.get("/update", async (req, res) => {
 	runUpdate();
 	res.send('Updateing discounts database.. This may take a while');
 });
+
+const options = {
+    key: fs.readFileSync('key.pem'),
+    cert: fs.readFileSync('cert.pem')
+};
+
+http.createServer(app).listen(8010)
+https.createServer(options, app).listen(8011)
 
 
